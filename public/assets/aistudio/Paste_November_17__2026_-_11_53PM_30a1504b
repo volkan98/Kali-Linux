@@ -1,0 +1,1096 @@
+CYBER LAB ACADEMY — COMPLETE ETHICAL HACKING & CYBER DEFENCE PLATFORM
+
+ISTRUZIONE PRINCIPALE
+
+Agisci contemporaneamente come:
+
+* Senior Ethical Hacker
+* Penetration Tester
+* Kali Linux Specialist
+* Linux System Administrator
+* Windows Server & Active Directory Security Engineer
+* Wireless Security Specialist
+* Network Security Engineer
+* SOC Analyst
+* Incident Response Specialist
+* Esperto di sicurezza delle password
+* Professore di informatica e cybersecurity
+* Senior Full Stack Developer
+* UX/UI Designer
+
+Devi sviluppare una piattaforma web completa, moderna, interattiva e funzionante, che mi insegni a utilizzare Linux da zero fino a sviluppare competenze professionali nell’Ethical Hacking, nel Penetration Testing e nella Cyber Defence.
+
+Nome della piattaforma:
+
+CYBER LAB ACADEMY
+
+Sottotitolo:
+
+Linux • Kali Linux • Windows Networks • Wi-Fi Security • Ethical Hacking • Cyber Defence
+
+La piattaforma deve essere interamente in italiano.
+
+Non voglio un gestionale vuoto, un semplice sito informativo o un elenco di lezioni.
+
+Voglio un’accademia informatica personale con veri contenuti didattici, terminali simulati funzionanti, laboratori, esami, simulazioni di reti, un insegnante AI e un percorso progressivo.
+
+1. OBIETTIVO PROFESSIONALE
+
+Il mio obiettivo è imparare a utilizzare Linux e Kali Linux per comprendere, analizzare e verificare la sicurezza di infrastrutture informatiche, comprese reti Windows e reti wireless.
+
+Voglio imparare a:
+
+1. Utilizzare Linux professionalmente.
+2. Comprendere e amministrare reti informatiche.
+3. Utilizzare Kali Linux.
+4. Analizzare reti Windows attraverso Linux.
+5. Comprendere SMB e le cartelle condivise.
+6. Studiare Windows Server e Active Directory.
+7. Verificare autorizzazioni e configurazioni.
+8. Individuare vulnerabilità su sistemi autorizzati.
+9. Comprendere come avvengono le intrusioni informatiche.
+10. Analizzare la sicurezza delle reti Wi-Fi aperte.
+11. Comprendere WPA2 e WPA3.
+12. Eseguire audit delle password su dati e reti di laboratorio.
+13. Individuare configurazioni wireless deboli.
+14. Comprendere come funzionano gli attacchi informatici.
+15. Verificare l’efficacia delle protezioni.
+16. Analizzare traffico e log.
+17. Riconoscere tentativi di intrusione.
+18. Proteggere sistemi Linux e Windows.
+19. Configurare firewall e monitoraggio.
+20. Eseguire penetration test professionali autorizzati.
+21. Scrivere report di sicurezza.
+22. Prepararmi a lavorare come Junior Penetration Tester, Cyber Defence Specialist o SOC Analyst.
+
+Devo imparare sia le tecniche di verifica della sicurezza sia le relative contromisure.
+
+Tutte le esercitazioni offensive devono utilizzare sistemi propri, macchine virtuali isolate o ambienti esplicitamente autorizzati. Le reti pubbliche e i sistemi di terzi devono essere trattati esclusivamente come esempi di rischio, mai come bersagli per i laboratori.
+
+2. METODO DIDATTICO OBBLIGATORIO
+
+Considerami uno studente che parte da zero.
+
+Per ogni argomento usa questa struttura:
+
+FASE 1 — COS’È
+
+Definizione chiara, senza termini tecnici non spiegati.
+
+FASE 2 — COME FUNZIONA
+
+Spiegazione progressiva, dal concetto semplice fino al funzionamento tecnico.
+
+FASE 3 — SCHEMA VISIVO
+
+Diagramma con frecce, computer, server, reti, pacchetti o processi.
+
+FASE 4 — ESEMPIO REALE
+
+Scenario che potrebbe verificarsi in un’azienda.
+
+FASE 5 — DIMOSTRAZIONE
+
+Mostra strumenti, comandi, sintassi e output.
+
+FASE 6 — ESERCITAZIONE
+
+Permettimi di svolgere una prova nel laboratorio.
+
+FASE 7 — DIAGNOSI
+
+Mostra come riconoscere e correggere gli errori.
+
+FASE 8 — SICUREZZA
+
+Spiega la vulnerabilità, il rischio e la difesa.
+
+FASE 9 — VERIFICA
+
+Controlla che io abbia compreso prima di avanzare.
+
+Non limitarti a farmi memorizzare comandi.
+
+Voglio capire perché un comando funziona, quali conseguenze produce, quando si utilizza e come interpretarne i risultati.
+
+3. DESIGN E INTERFACCIA
+
+Crea una piattaforma con un design premium.
+
+Caratteristiche:
+
+* Dark mode.
+* Stile cybersecurity professionale.
+* Nero, grigio antracite, verde terminale e blu.
+* Dashboard moderna.
+* Sidebar per i moduli.
+* Lezioni ben leggibili.
+* Diagrammi di rete interattivi.
+* Terminale Linux integrato.
+* Laboratorio Windows.
+* Laboratorio wireless.
+* Simulatore Red Team / Blue Team.
+* Chat con AI Mentor.
+* Progressi personali.
+* Esami.
+* Appunti.
+* Report.
+
+La schermata iniziale deve avere queste sezioni:
+
+DASHBOARD | IMPARA LINUX | KALI LINUX | WINDOWS NETWORK LAB | WI-FI SECURITY LAB | PASSWORD AUDIT LAB | RED TEAM | BLUE TEAM | AI MENTOR | ESAMI | I MIEI APPUNTI
+
+Ogni sezione deve avere funzionalità reali, non essere soltanto una schermata decorativa.
+
+4. PERCORSO DIDATTICO COMPLETO
+
+Organizza l’accademia nei seguenti 22 moduli, progressivi ma consultabili separatamente.
+
+MODULO 1 — FONDAMENTI INFORMATICI
+
+Insegna:
+
+* Hardware.
+* Software.
+* CPU.
+* RAM.
+* Memoria di archiviazione.
+* Sistemi operativi.
+* Kernel.
+* Processi.
+* Client e server.
+* File system.
+* Virtualizzazione.
+* Macchine virtuali.
+* Sicurezza informatica.
+
+Laboratorio: comprendere i componenti di un computer e il funzionamento di un sistema operativo.
+
+MODULO 2 — LINUX DA ZERO
+
+* Cos’è Linux.
+* Ubuntu.
+* Debian.
+* Kali Linux.
+* Differenze Linux e Windows.
+* Kernel Linux.
+* Shell.
+* Bash.
+* Terminale.
+* File system Linux.
+* Installazione Ubuntu.
+* Utilizzo di VirtualBox.
+* Creazione di una macchina virtuale.
+
+Laboratorio: creare una macchina Ubuntu e utilizzare i primi comandi.
+
+MODULO 3 — TERMINALE LINUX PROFESSIONALE
+
+Insegna tutti i principali comandi Linux, tra cui:
+
+pwd, ls, cd, mkdir, touch, cat, cp, mv, rm, grep, find, less, head, tail, nano, chmod, chown, sudo, whoami, id, ps, top, kill, systemctl, journalctl, ip, ping, ss, dig, curl e ssh.
+
+Per ogni comando spiega:
+
+* A cosa serve.
+* Sintassi.
+* Opzioni.
+* Esempi.
+* Output previsto.
+* Errori.
+* Implicazioni di sicurezza.
+
+Laboratorio con terminale simulato e verifiche automatiche.
+
+MODULO 4 — AMMINISTRAZIONE LINUX
+
+* Utenti.
+* Gruppi.
+* Root.
+* Sudo.
+* Permessi.
+* Processi.
+* Servizi.
+* SSH.
+* Firewall.
+* Aggiornamenti.
+* Log.
+* Backup.
+* Hardening Linux.
+* Gestione dei dischi.
+* Automazione amministrativa.
+
+Laboratorio: configurare un server Ubuntu sicuro.
+
+MODULO 5 — NETWORKING COMPLETO
+
+* Modello OSI.
+* TCP/IP.
+* IPv4.
+* IPv6.
+* Subnet mask.
+* CIDR.
+* Gateway.
+* DNS.
+* DHCP.
+* ARP.
+* NAT.
+* TCP.
+* UDP.
+* Porte.
+* Router.
+* Switch.
+* VLAN.
+* Firewall.
+* VPN.
+* HTTP.
+* HTTPS.
+* TLS.
+* SSH.
+
+Crea diagrammi interattivi per mostrare il percorso dei pacchetti.
+
+Laboratorio: realizzare una piccola rete aziendale simulata.
+
+MODULO 6 — WINDOWS E WINDOWS SERVER
+
+* Windows 10/11.
+* Windows Server.
+* File system NTFS.
+* Utenti.
+* Gruppi.
+* Permessi.
+* Servizi.
+* Windows Firewall.
+* PowerShell.
+* Event Viewer.
+* Log di sicurezza.
+* RDP.
+* WinRM.
+* Condivisioni di rete.
+
+Laboratorio: configurare Windows in un ambiente virtuale controllato.
+
+MODULO 7 — KALI LINUX
+
+* Cos’è Kali Linux.
+* Come installarlo.
+* Interfaccia.
+* Terminale.
+* Strumenti disponibili.
+* Gestione aggiornamenti.
+* Networking.
+* Utilizzo delle macchine virtuali.
+* Sicurezza dell’ambiente.
+* Creazione di un laboratorio di penetration testing.
+
+Presenta Nmap, Wireshark, Burp Suite, OWASP ZAP e altri strumenti professionali, spiegandone scopo, limitazioni e utilizzo autorizzato.
+
+MODULO 8 — LINUX CONTRO RETI WINDOWS: SECURITY ASSESSMENT
+
+Questo è uno dei moduli più importanti.
+
+Voglio imparare a verificare la sicurezza di una rete Windows attraverso Kali Linux.
+
+Argomenti:
+
+* Comunicazione Linux/Windows.
+* SMB.
+* Porte 139 e 445.
+* Condivisioni Windows.
+* Samba.
+* smbclient.
+* Autenticazione.
+* Autorizzazioni.
+* Permessi NTFS.
+* Permessi di condivisione.
+* Rilevamento dei servizi.
+* Configurazioni errate.
+* Accessi non autorizzati: cause e prevenzione.
+* Analisi dei log Windows.
+* Protezione delle condivisioni.
+
+LABORATORIO WINDOWS FILE SERVER
+
+Crea una rete simulata con:
+
+* Kali Linux.
+* Windows 11.
+* Windows Server.
+* File server SMB.
+* Account di prova.
+* Cartelle condivise.
+* Firewall.
+* Sistema di monitoraggio.
+
+Predisponi alcune cartelle con autorizzazioni corrette e altre con autorizzazioni eccessive.
+
+Lo studente deve:
+
+1. Identificare i sistemi del laboratorio.
+2. Verificare i servizi esposti.
+3. Comprendere le condivisioni disponibili.
+4. Accedere con credenziali di test autorizzate.
+5. Valutare le autorizzazioni.
+6. Riconoscere cartelle esposte impropriamente.
+7. Correggere i permessi.
+8. Verificare che gli utenti non autorizzati non possano accedere.
+9. Analizzare i log di accesso.
+
+Aggiungi un sistema che mostri visivamente cosa succede quando un utente possiede o non possiede un’autorizzazione.
+
+MODULO 9 — ACTIVE DIRECTORY SECURITY
+
+* Domini Windows.
+* Domain Controller.
+* Active Directory.
+* LDAP.
+* Kerberos.
+* NTLM.
+* DNS aziendale.
+* Utenti di dominio.
+* Gruppi.
+* Group Policy.
+* Privilegi amministrativi.
+* Account di servizio.
+* Sicurezza delle identità.
+* Configurazioni errate.
+* Controllo degli accessi.
+* Logging.
+* Principio del minimo privilegio.
+
+Laboratorio: realizzare un dominio di prova, assegnare ruoli e identificare configurazioni troppo permissive.
+
+MODULO 10 — INTRODUZIONE AL PENETRATION TESTING
+
+Insegna:
+
+* Ethical Hacking.
+* Autorizzazione.
+* Scope.
+* Rules of Engagement.
+* Ricognizione.
+* Enumerazione.
+* Vulnerability Assessment.
+* Analisi dei risultati.
+* Validazione controllata.
+* Valutazione della gravità.
+* Reporting.
+* Remediation.
+* Retest.
+
+Laboratorio: valutare la sicurezza di un server di test autorizzato.
+
+MODULO 11 — VULNERABILITY ASSESSMENT
+
+* Vulnerabilità software.
+* CVE.
+* CVSS.
+* Patch.
+* Servizi obsoleti.
+* Configurazioni insicure.
+* Scanner di vulnerabilità.
+* Falsi positivi.
+* Priorità di correzione.
+* Vulnerability management.
+
+Laboratorio: analizzare risultati simulati di uno scanner e proporre un piano di correzione.
+
+MODULO 12 — RETI WI-FI DA ZERO
+
+Voglio comprendere approfonditamente le reti wireless.
+
+Argomenti:
+
+* IEEE 802.11.
+* Access Point.
+* Router wireless.
+* SSID.
+* BSSID.
+* MAC address.
+* Frequenze.
+* Canali.
+* Associazione.
+* Autenticazione.
+* Reti aperte.
+* Reti protette.
+* Captive portal.
+* Wi-Fi aziendali.
+* Wi-Fi domestici.
+* Wi-Fi guest.
+* Isolamento dei client.
+
+Crea animazioni per mostrare cosa succede quando un dispositivo cerca una rete, si associa e comunica con un access point.
+
+MODULO 13 — WI-FI SECURITY: WPA2, WPA3 E PASSWORD
+
+Voglio studiare dettagliatamente la sicurezza delle reti wireless.
+
+Argomenti:
+
+* WEP.
+* WPA.
+* WPA2.
+* WPA3.
+* WPA2-Personal.
+* WPA3-Personal.
+* WPA-Enterprise.
+* 802.1X.
+* Passphrase.
+* Autenticazione wireless.
+* Derivazione delle chiavi.
+* Handshake.
+* WPS.
+* Protected Management Frames.
+* Password robuste e deboli.
+* Sicurezza dei router.
+* Aggiornamenti firmware.
+* Configurazioni vulnerabili.
+
+Devi anche spiegare:
+
+* Come funzionano i tentativi di individuazione delle password.
+* Perché alcune password sono più vulnerabili di altre.
+* La differenza tra verifica offline e autenticazione online.
+* Come un auditor verifica la robustezza delle credenziali.
+* Quali limiti introducono WPA2 e WPA3.
+* Come proteggere un access point.
+
+LABORATORIO WI-FI PASSWORD SECURITY
+
+Crea un laboratorio isolato con:
+
+* Router di laboratorio simulato.
+* Access point.
+* Kali Linux.
+* Password di prova create appositamente.
+* Sistema di autenticazione simulato.
+* Indicatori di sicurezza.
+
+Lo studente deve poter eseguire audit offline su credenziali sintetiche, confrontare password deboli e robuste e verificare come modifiche alla configurazione migliorino la sicurezza.
+
+Includi un simulatore didattico di password guessing e attacchi a dizionario che operi soltanto su un insieme locale di password di prova, senza interagire con reti esterne.
+
+Per ogni esercizio mostra la debolezza individuata e la contromisura.
+
+Aggiungi anche una guida alla verifica della configurazione di un router personale, con procedure non distruttive.
+
+Non predisporre funzionalità per ottenere password da reti di terzi, intercettare credenziali reali o aggirare l’autenticazione di reti non autorizzate.
+
+MODULO 14 — WI-FI APERTI E SICUREZZA DELLE RETI PUBBLICHE
+
+Voglio imparare che cosa succede all’interno di una rete Wi-Fi senza password e quali vulnerabilità possono esistere.
+
+Argomenti:
+
+* Wi-Fi aperti.
+* Hotspot pubblici.
+* Captive portal.
+* Isolamento dei client.
+* Traffico di rete.
+* HTTPS.
+* TLS.
+* DNS.
+* Rogue Access Point.
+* Evil Twin.
+* Man in the Middle.
+* DNS spoofing.
+* ARP spoofing.
+* Segmentazione di rete.
+* Firewall.
+* VPN.
+* Protezione degli utenti.
+
+Spiega questi attacchi, i segnali che permettono di riconoscerli e le misure per prevenirli.
+
+LABORATORIO OPEN WI-FI
+
+Crea un ambiente isolato con:
+
+* Access point virtuale.
+* Computer Windows.
+* Computer Linux.
+* Server locale.
+* Firewall.
+* Sistema di monitoraggio.
+
+Predisponi scenari con comportamenti sospetti simulati e dati di traffico sintetici.
+
+Lo studente deve:
+
+1. Esaminare la configurazione della rete.
+2. Comprendere quali dispositivi possono comunicare.
+3. Verificare l’isolamento dei client.
+4. Analizzare traffico dei propri sistemi.
+5. Riconoscere eventi sospetti simulati.
+6. Individuare servizi inutilmente esposti.
+7. Applicare protezioni.
+8. Verificare che la rete sia più sicura.
+
+Non utilizzare hotspot reali di terzi come laboratorio.
+
+MODULO 15 — PASSWORD AUDITING E SICUREZZA DELLE CREDENZIALI
+
+Argomenti:
+
+* Password hashing.
+* Salt.
+* Password manager.
+* MFA.
+* Passkey.
+* Password policy.
+* Password spraying: concetti e contromisure.
+* Credential stuffing: concetti e contromisure.
+* Brute force: principi e mitigazioni.
+* Dictionary attacks: principi e mitigazioni.
+* Rate limiting.
+* Account lockout.
+* Autenticazione forte.
+* Sicurezza delle password Windows.
+* Sicurezza delle password Linux.
+
+LABORATORIO PASSWORD AUDIT
+
+Crea un archivio completamente sintetico di credenziali.
+
+Permetti allo studente di verificare quanto siano resistenti password di esempio attraverso un simulatore offline controllato.
+
+Mostra:
+
+* Password di prova.
+* Metodo di protezione.
+* Robustezza stimata.
+* Motivo della debolezza.
+* Conseguenze.
+* Miglioramenti consigliati.
+
+Il laboratorio deve essere didattico e non deve raccogliere, recuperare o esporre password personali reali.
+
+MODULO 16 — SICUREZZA DELLE APPLICAZIONI WEB
+
+* HTTP.
+* HTTPS.
+* Cookie.
+* Sessioni.
+* Autenticazione.
+* Autorizzazione.
+* SQL Injection.
+* Cross-Site Scripting.
+* Broken Access Control.
+* Security Misconfiguration.
+* OWASP Top 10.
+* API Security.
+* Protezione dei dati.
+
+Laboratorio: utilizzare applicazioni volutamente vulnerabili in ambiente locale e correggere i problemi individuati.
+
+MODULO 17 — FIREWALL E NETWORK DEFENCE
+
+* UFW.
+* nftables.
+* Windows Firewall.
+* Regole firewall.
+* Access Control List.
+* Segmentazione.
+* VLAN.
+* IDS.
+* IPS.
+* Wazuh.
+* Suricata.
+* Zeek.
+* Logging.
+* Alert.
+* Monitoraggio della rete.
+
+Laboratorio: configurare un firewall e verificare quali connessioni vengono consentite o bloccate.
+
+MODULO 18 — SOC ANALYST E CYBER DEFENCE
+
+* Security Operations Center.
+* SIEM.
+* Eventi di sicurezza.
+* Log Windows.
+* Log Linux.
+* Alert.
+* Indicatori di compromissione.
+* MITRE ATT&CK.
+* Threat Hunting.
+* Analisi del traffico.
+* Incident Response.
+* Contenimento.
+* Ripristino.
+
+Laboratorio: analizzare un incidente simulato che coinvolge più dispositivi.
+
+MODULO 19 — PYTHON E BASH PER LA CYBERSECURITY
+
+* Bash.
+* Python.
+* Variabili.
+* Condizioni.
+* Cicli.
+* Funzioni.
+* Gestione dei file.
+* Analisi dei log.
+* Automazione amministrativa.
+* Controlli di configurazione.
+* Report automatici.
+* Monitoraggio.
+
+Laboratorio: sviluppare uno script Python che analizzi log di accesso e segnali anomalie.
+
+MODULO 20 — RED TEAM VS BLUE TEAM LAB
+
+Crea una rete aziendale completamente virtuale.
+
+La rete deve comprendere:
+
+* Kali Linux.
+* Ubuntu Server.
+* Windows 11.
+* Windows Server.
+* Domain Controller.
+* Active Directory.
+* File server SMB.
+* Router.
+* Access point Wi-Fi.
+* Firewall.
+* SIEM.
+* Workstation aziendali.
+
+Crea due modalità.
+
+RED TEAM
+
+Lo studente esegue test di sicurezza autorizzati, verifica configurazioni errate e documenta vulnerabilità intenzionalmente predisposte nel laboratorio.
+
+BLUE TEAM
+
+Lo studente analizza i segnali degli attacchi simulati, configura le protezioni, corregge le vulnerabilità e verifica i risultati.
+
+Tutti gli eventi offensivi devono restare confinati all’ambiente didattico.
+
+MODULO 21 — INCIDENT RESPONSE PROFESSIONALE
+
+Insegna:
+
+* Preparazione.
+* Identificazione.
+* Triage.
+* Classificazione.
+* Conservazione delle evidenze.
+* Contenimento.
+* Eradicazione.
+* Ripristino.
+* Analisi delle cause.
+* Documentazione.
+* Comunicazione dell’incidente.
+* Miglioramento continuo.
+
+Laboratorio: gestire un incidente informatico simulato dall’inizio alla fine.
+
+MODULO 22 — ESAME PROFESSIONALE FINALE
+
+Scenario:
+
+“Sei un Junior Cybersecurity Specialist incaricato di valutare e migliorare la sicurezza informatica di un’azienda.”
+
+L’azienda possiede:
+
+* 10 workstation Windows simulate.
+* 1 Windows Server.
+* 1 Active Directory.
+* 1 file server.
+* 2 server Linux.
+* 1 router aziendale.
+* 1 rete Wi-Fi protetta.
+* 1 rete Wi-Fi guest.
+* 1 firewall.
+* 1 sistema di monitoraggio.
+
+Obiettivi dello studente:
+
+1. Analizzare l’architettura di rete.
+2. Identificare i servizi.
+3. Verificare le condivisioni.
+4. Controllare le autorizzazioni.
+5. Valutare la sicurezza Active Directory.
+6. Verificare la configurazione Wi-Fi.
+7. Analizzare le policy delle password.
+8. Individuare vulnerabilità predisposte.
+9. Analizzare gli alert.
+10. Proteggere i sistemi.
+11. Documentare i risultati.
+12. Ripetere le verifiche.
+13. Presentare un report finale.
+
+Assegna un punteggio basato su criteri tecnici verificabili.
+
+5. TERMINALE LINUX INTERATTIVO
+
+Questa funzionalità è obbligatoria.
+
+Integra un terminale con aspetto realistico:
+
+student@kali-lab:~$
+
+Deve permettere di:
+
+* Inserire comandi.
+* Navigare tra directory.
+* Creare file.
+* Modificare file.
+* Visualizzare contenuti.
+* Gestire permessi simulati.
+* Analizzare log virtuali.
+* Utilizzare strumenti didattici.
+* Completare esercizi.
+
+Il terminale deve mantenere uno stato persistente del file system virtuale.
+
+Non utilizzare risposte casuali o sempre uguali: i risultati devono dipendere dai comandi e dallo stato del laboratorio.
+
+Mostra chiaramente che si tratta di una simulazione.
+
+Per attività che richiedono un vero sistema operativo, prevedi una guida per creare macchine virtuali isolate e una modalità di inserimento manuale degli output, da far analizzare all’insegnante AI.
+
+Non eseguire comandi sul sistema host o su reti reali attraverso una semplice interfaccia browser.
+
+6. WINDOWS NETWORK LAB
+
+Crea un ambiente grafico interattivo dedicato alla sicurezza Windows.
+
+Visualizza:
+
+* Computer.
+* Server.
+* Utenti.
+* Gruppi.
+* Domini.
+* Cartelle condivise.
+* Autorizzazioni.
+* Porte.
+* Firewall.
+* Log.
+
+Lo studente deve poter modificare i permessi del laboratorio virtuale e osservare come cambiano gli accessi consentiti.
+
+Crea esercitazioni realistiche con account di prova, cartelle fittizie e autorizzazioni diverse.
+
+Verifica automaticamente che lo studente abbia risolto le configurazioni insicure.
+
+7. WIRELESS SECURITY LAB
+
+Crea un simulatore interattivo di rete Wi-Fi.
+
+Deve permettere di configurare virtualmente:
+
+* SSID.
+* Tipo di protezione.
+* WPA2.
+* WPA3.
+* Password di laboratorio.
+* Rete guest.
+* Isolamento client.
+* WPS.
+* Firewall.
+* Dispositivi connessi.
+
+Mostra gli effetti delle configurazioni sulla sicurezza.
+
+Includi scenari con:
+
+* Rete aperta.
+* Rete con passphrase debole.
+* Rete con passphrase robusta.
+* WPS abilitato o disabilitato.
+* Dispositivi non isolati.
+* Servizi esposti.
+* Configurazioni aggiornate o obsolete.
+
+Ogni scenario deve insegnare una vulnerabilità e la relativa soluzione.
+
+Gli audit delle password devono operare soltanto su credenziali di prova locali e dati sintetici.
+
+8. SIMULATORE DI ATTACCHI E DIFESA
+
+Crea la sezione:
+
+CYBER ATTACK & DEFENCE SIMULATOR
+
+Gli attacchi devono essere simulati all’interno della piattaforma.
+
+Scenari obbligatori:
+
+SCENARIO A — ACCESSI SSH SOSPETTI
+
+Analisi dei tentativi falliti, configurazione delle difese e verifica.
+
+SCENARIO B — WINDOWS FILE SHARING
+
+Condivisione configurata in modo insicuro, analisi delle autorizzazioni e correzione.
+
+SCENARIO C — WI-FI OPEN NETWORK
+
+Analisi delle protezioni mancanti e dell’isolamento client.
+
+SCENARIO D — WI-FI PASSWORD WEAKNESS
+
+Audit su password di laboratorio e miglioramento della sicurezza.
+
+SCENARIO E — ACTIVE DIRECTORY
+
+Identificazione e correzione di permessi eccessivi.
+
+SCENARIO F — SERVER WEB
+
+Individuazione di configurazioni vulnerabili.
+
+SCENARIO G — INCIDENTE AZIENDALE
+
+Analisi dei log, individuazione degli indicatori di compromissione e contenimento.
+
+Ogni scenario deve avere:
+
+* Descrizione.
+* Obiettivo.
+* Ambiente.
+* Evidenze.
+* Terminale.
+* Strumenti.
+* Possibili interventi.
+* Valutazione.
+* Spiegazione finale.
+
+Le risposte non devono essere svelate immediatamente.
+
+9. CYBER MENTOR AI
+
+Crea un insegnante AI personale integrato nella piattaforma.
+
+Nome:
+
+CYBER MENTOR
+
+Deve:
+
+* Spiegare tutto in italiano.
+* Partire dal livello principiante.
+* Utilizzare esempi concreti.
+* Analizzare i miei errori.
+* Spiegare gli output dei comandi.
+* Aiutarmi a comprendere reti, Windows e Linux.
+* Guidarmi nei laboratori.
+* Creare verifiche.
+* Rispondere alle domande.
+* Consigliare gli argomenti da ripassare.
+* Distinguere tra simulazione e sistemi reali.
+
+Quando faccio una domanda come:
+
+“Come funziona il protocollo SMB?”
+
+Deve spiegare il protocollo, mostrare uno schema, fornire un esempio pratico, illustrare un problema di sicurezza e proporre un esercizio.
+
+Non deve limitarsi a risposte di poche righe quando l’argomento richiede approfondimento.
+
+10. APPUNTI E DISPENSE
+
+Crea la sezione:
+
+I MIEI APPUNTI
+
+Funzionalità:
+
+* Prendere appunti.
+* Salvare comandi.
+* Organizzare contenuti per modulo.
+* Caricare foto di appunti, se supportato.
+* Analizzare screenshot dei comandi.
+* Correggere errori tecnici.
+* Generare schemi.
+* Cercare argomenti.
+
+Per ogni modulo produci due materiali:
+
+DISPENSA COMPLETA
+
+Definizioni, spiegazioni approfondite, esempi, schemi, comandi, rischi e soluzioni.
+
+DISPENSA SINTETICA
+
+Concetti essenziali e comandi fondamentali per il ripasso.
+
+Permetti l’esportazione in PDF tramite una funzione realmente implementata oppure mediante una vista ottimizzata per la stampa.
+
+11. QUIZ, ESAMI E PROGRESSI
+
+Ogni modulo deve includere:
+
+* Quiz iniziale.
+* Lezioni.
+* Esercitazioni.
+* Laboratorio.
+* Test finale.
+* Valutazione pratica.
+
+Crea una dashboard con:
+
+* Moduli completati.
+* Percentuale di avanzamento.
+* Laboratori superati.
+* Competenze.
+* Risultati.
+* Argomenti da ripassare.
+
+Prevedi un sistema di progressione basato sulle competenze e non soltanto sulle ore di studio.
+
+Genera attestati interni di completamento, specificando che non sostituiscono certificazioni professionali ufficiali.
+
+12. PERCORSO PROFESSIONALE
+
+Aggiungi una sezione per prepararmi ai ruoli:
+
+* Junior Penetration Tester.
+* Ethical Hacker.
+* SOC Analyst.
+* Cyber Defence Specialist.
+* Linux System Administrator.
+* Active Directory Security Analyst.
+* Network Security Technician.
+
+Mostra:
+
+* Competenze richieste.
+* Attività quotidiane.
+* Strumenti utilizzati.
+* Esempi di problemi professionali.
+* Simulazioni di colloqui.
+* Progetti per un portfolio.
+* Competenze ancora da acquisire.
+
+Includi riferimenti di studio a Linux Essentials, Network+, Security+, eJPT e percorsi equivalenti, distinguendo il materiale preparatorio dalle certificazioni ufficiali.
+
+13. ARCHITETTURA E FUNZIONAMENTO
+
+Utilizza:
+
+* React.
+* TypeScript.
+* Tailwind CSS.
+* Componenti riutilizzabili.
+* Un interprete controllato per il terminale simulato.
+* Un motore di laboratori basato su stati e regole.
+* Persistenza locale dei progressi.
+* Gemini API per il tutor AI.
+* Diagrammi di rete interattivi.
+
+Requisiti obbligatori:
+
+1. Tutti i pulsanti devono funzionare.
+2. I progressi devono essere salvati.
+3. Il terminale deve produrre risultati coerenti.
+4. Gli esercizi devono avere una verifica automatica.
+5. I laboratori devono poter essere ripristinati.
+6. Le lezioni devono contenere spiegazioni reali.
+7. La dashboard deve aggiornarsi.
+8. Il tutor AI deve conoscere il modulo attuale.
+9. Gli errori devono essere gestiti.
+10. Nessuna funzionalità deve fingere di essere implementata.
+
+Non inserire chiavi API segrete nel frontend.
+
+Se è necessario un backend, crea un’architettura sicura e indica chiaramente la configurazione richiesta.
+
+Un browser non deve essere presentato come capace di eseguire direttamente un vero sistema Kali Linux o di controllare hardware Wi-Fi senza componenti esterni.
+
+Per laboratori reali, crea guide di installazione con VirtualBox, Ubuntu, Kali Linux e Windows in ambienti isolati.
+
+14. REALISMO DEI LABORATORI
+
+Non voglio esercizi falsamente interattivi.
+
+Il simulatore deve mantenere lo stato del sistema virtuale.
+
+Esempio:
+
+Se modifico i permessi di una cartella Windows, la simulazione deve aggiornare gli accessi consentiti.
+
+Se blocco una porta sul firewall simulato, il test di connessione deve mostrare il blocco.
+
+Se modifico una password di laboratorio, il risultato dell’audit deve essere ricalcolato.
+
+Se correggo una vulnerabilità, il controllo successivo deve verificare che il problema sia effettivamente risolto nello stato simulato.
+
+Se non puoi implementare tecnicamente una funzione, dichiaralo e proponi una soluzione realmente realizzabile.
+
+15. AVVIO DELLO SVILUPPO
+
+Non tentare di generare migliaia di lezioni incomplete in una sola risposta.
+
+Sviluppa in modo incrementale, mantenendo l’architettura completa.
+
+PRIMA IMPLEMENTAZIONE
+
+Realizza immediatamente:
+
+1. Dashboard professionale.
+2. Navigazione dei 22 moduli.
+3. Prima lezione Linux completa.
+4. Terminale Linux simulato funzionante.
+5. Sistema di quiz.
+6. Salvataggio dei progressi.
+7. Sezione Cyber Mentor.
+8. Primo laboratorio Windows SMB simulato.
+9. Primo laboratorio Wi-Fi Security simulato.
+10. Primo esercizio di password auditing con dati sintetici.
+
+Queste funzionalità devono essere implementate realmente.
+
+Le successive sezioni devono essere predisposte senza presentarle come complete quando non lo sono.
+
+SECONDA IMPLEMENTAZIONE
+
+Completa progressivamente i moduli Linux, networking, Windows, Kali Linux e Active Directory.
+
+TERZA IMPLEMENTAZIONE
+
+Completa Wi-Fi Security, Password Auditing, Red Team e Blue Team.
+
+QUARTA IMPLEMENTAZIONE
+
+Completa gli scenari aziendali, gli esami e il progetto finale.
+
+16. RISULTATO CHE MI ASPETTO
+
+Quando apro CYBER LAB ACADEMY voglio poter:
+
+1. Avviare una lezione.
+2. Comprendere un argomento.
+3. Visualizzare una dimostrazione.
+4. Eseguire comandi nel terminale simulato.
+5. Analizzare una rete virtuale.
+6. Verificare la sicurezza di un sistema Windows.
+7. Controllare le autorizzazioni di cartelle condivise.
+8. Studiare le vulnerabilità dei Wi-Fi.
+9. Valutare password di laboratorio.
+10. Identificare problemi di sicurezza.
+11. Applicare protezioni.
+12. Superare esercitazioni.
+13. Ricevere feedback dall’insegnante AI.
+14. Completare esami.
+15. Prepararmi gradualmente ad attività professionali.
+
+La piattaforma deve insegnarmi a ragionare come un professionista della cybersecurity e non soltanto a utilizzare strumenti automaticamente.
+
+ISTRUZIONE FINALE
+
+INIZIA ORA A GENERARE L’APPLICAZIONE.
+
+Non rispondere con un semplice riepilogo del progetto.
+
+Produci la struttura dell’app, l’interfaccia e la prima implementazione funzionante, con lezioni effettive, terminale simulato, primi laboratori Windows e Wi-Fi, quiz e salvataggio dei progressi.
+
+La priorità assoluta è la qualità didattica e il funzionamento reale delle simulazioni.
+
+CYBER LAB ACADEMY DEVE DIVENTARE LA MIA PIATTAFORMA PERSONALE PER IMPARARE LINUX, ETHICAL HACKING, PENETRATION TESTING, SICUREZZA DELLE RETI WINDOWS E CYBER DEFENCE.

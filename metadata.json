@@ -1,0 +1,6 @@
+{
+  "name": "CYBER LAB ACADEMY",
+  "description": "Piattaforma interattiva in italiano per imparare Linux, Kali Linux, sicurezza delle reti Windows, Wi-Fi Security, Ethical Hacking e Cyber Defence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
